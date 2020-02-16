@@ -1,0 +1,21 @@
+{
+	"name": "service-graphql",
+	"version": "1.0.0",
+	"description": "Microframework to create Apollo modules",
+	"main": "index.js",
+	"keywords": [
+		"graphql",
+		"apollo",
+		"service",
+		"module",
+		"native"
+	],
+	"repository": "https://github.com/muhammad-najimov/service-graphql",
+	"author": "Muhammad Najimov <muhammad.najimov@hotmail.com>",
+	"license": "MIT",
+	"private": false,
+	"dependencies": {
+		"graphql": "latest",
+		"graphql-tag": "latest"
+	}
+}
